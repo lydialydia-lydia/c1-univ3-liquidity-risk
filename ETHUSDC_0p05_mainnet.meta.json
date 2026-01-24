@@ -1,0 +1,18 @@
+{
+  "subgraph_id": "5zvR82QoaXYFyDEKLZ9t6v9adgnptxYpKpSbxtgVENFV",
+  "pool_id": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+  "feeTier": 500,
+  "currentTick": 196429,
+  "liquidity": 11263751935226816506,
+  "sqrtPriceX96": 1459071770269315203845095385394772,
+  "token0": {
+    "decimals": "6",
+    "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "symbol": "USDC"
+  },
+  "token1": {
+    "decimals": "18",
+    "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "symbol": "WETH"
+  }
+}
